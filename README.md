@@ -3,7 +3,7 @@ This is new File
 
 Im Adding second line from master
 
-Im adding the Third line from branch
+Im adding the Third line from new
 
 Im adding the fourth line
 
