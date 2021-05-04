@@ -1,4 +1,4 @@
---MASTER--
+--MAIN--
 This is new File
 
 Im Adding second line from master
