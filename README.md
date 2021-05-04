@@ -1,7 +1,7 @@
 
 This is new File
 
-Im Adding second line 
+Im Adding second line from master
 
 Im adding the Third line
 
